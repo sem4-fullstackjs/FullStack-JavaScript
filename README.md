@@ -1,7 +1,7 @@
 # FullStack-JavaScript
 A collection of repositories from the course Fullstack JavaScript
 
-Exam Notes: https://github.com/sem4-fullstackjs/Exam.git
+Exam Notes: https://github.com/sem4-fullstackjs/Exam
 
 ## Periods
 Period 1: https://github.com/sem4-fullstackjs/Period-1  
